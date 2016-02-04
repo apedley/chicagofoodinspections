@@ -31,3 +31,19 @@ body {
   top: 100%;
   left: 0;
 }
+
+span.Fail {
+  color: red;
+  font-weight: bold;
+}
+
+span.Pass {
+  color: green;
+  font-weight: bold;
+}
+
+span.PasswConditions {
+  color: orange;
+  font-weight: bold;
+}
+
